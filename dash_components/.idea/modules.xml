@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Advance_Binance_Dashboards/.idea/Advance_Binance_Dashboards.iml" filepath="$PROJECT_DIR$/../Advance_Binance_Dashboards/.idea/Advance_Binance_Dashboards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../D-tale/.idea/D-tale.iml" filepath="$PROJECT_DIR$/../D-tale/.idea/D-tale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alpha_vantage_advance_dashboards/.idea/alpha_vantage_advance_dashboards.iml" filepath="$PROJECT_DIR$/../alpha_vantage_advance_dashboards/.idea/alpha_vantage_advance_dashboards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dash_bootstrap/.idea/dash_bootstrap.iml" filepath="$PROJECT_DIR$/../dash_bootstrap/.idea/dash_bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_plotly/.idea/django_plotly.iml" filepath="$PROJECT_DIR$/../django_plotly/.idea/django_plotly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_plotly_dash/.idea/django_plotly_dash.iml" filepath="$PROJECT_DIR$/../django_plotly_dash/.idea/django_plotly_dash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pandas_basics.iml" filepath="$PROJECT_DIR$/.idea/pandas_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plotly_django/.idea/plotly_django.iml" filepath="$PROJECT_DIR$/../plotly_django/.idea/plotly_django.iml" />
+    </modules>
+  </component>
+</project>
